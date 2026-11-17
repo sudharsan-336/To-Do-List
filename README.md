@@ -1,6 +1,6 @@
 # 📝 To-Do List
 ## Overview
-The **To-Do List** is a simple web-based application that helps users organize and manage daily tasks efficiently. Users can add tasks, mark completed tasks, delete tasks, and save their task list using local storage so tasks remain available even after refreshing the page.
+The **To-Do List** is a simple web-based application that helps users organize and manage daily tasks efficiently. Users can add tasks, mark completed tasks, delete tasks, and save their task list using local storage so tasks remain available even after refreshing the page. The application also supports mobile responsiveness.
 
 ## Features
 ### Task Management
