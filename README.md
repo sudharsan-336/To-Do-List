@@ -3,7 +3,7 @@
 The **To-Do List** is a simple, **mobile-responsive** web-based application that helps users organize and manage daily tasks efficiently. Users can add tasks, mark completed tasks, delete tasks, and save their task list using local storage so tasks remain available even after refreshing the page. The application also supports mobile responsiveness.
 
 ## Live Demo
-**View Website :** to-do-checklist.vercel.app/
+**View Website :** https://to-do-checklist.vercel.app/
 
 ## Features
 ### Task Management
